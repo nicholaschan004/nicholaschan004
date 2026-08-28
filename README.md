@@ -24,7 +24,7 @@ Menu, hours and daily specials for a Japanese sushi kitchen. The owner edits a G
 Sheet and the site rebuilds itself, so there is no CMS to log into and no developer in the
 loop for a price change.
 
-`React` `Vite` `Radix UI` `Google Sheets` `Vercel`
+`React` `Vite` `Radix UI` `Google Sheets` `Cloudflare Pages`
 
 **[Ray Chan Tattoo](https://github.com/nicholaschan004/RayChanTattoo)** &nbsp;·&nbsp; portfolio and booking site
 &nbsp;→&nbsp; [raychantattoo.com](https://www.raychantattoo.com)
