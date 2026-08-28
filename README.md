@@ -1,0 +1,41 @@
+## Hi, I'm Nicholas
+
+I build and ship web applications. Two of the projects below are live sites serving real
+customers; the third is a tool I built because the alternative was passing a laptop around
+a room.
+
+### What I've shipped
+
+**[Consensus](https://github.com/nicholaschan004/Consensus)** &nbsp;·&nbsp; anonymous live voting for group decisions
+&nbsp;→&nbsp; [consensus-vote.vercel.app](https://consensus-vote.vercel.app)
+
+A host opens a session, the room joins from their phones with a six digit code, and votes
+are tallied live without anyone being able to tell who voted what. One member one vote is
+enforced atomically in Redis rather than in application code, and the running tally is
+withheld from members until the host closes the round, because watching the count climb is
+exactly what a secret ballot prevents.
+
+`React` `TypeScript` `Vite` `Vercel Functions` `Upstash Redis`
+
+**[Tsuru Sushi](https://github.com/nicholaschan004/TsuruSushi)** &nbsp;·&nbsp; restaurant site
+&nbsp;→&nbsp; [tsurusushi.com](https://tsurusushi.com)
+
+Menu, hours and daily specials for a Japanese sushi kitchen. The owner edits a Google
+Sheet and the site rebuilds itself, so there is no CMS to log into and no developer in the
+loop for a price change.
+
+`React` `Vite` `Radix UI` `Google Sheets` `Vercel`
+
+**[Ray Chan Tattoo](https://github.com/nicholaschan004/RayChanTattoo)** &nbsp;·&nbsp; portfolio and booking site
+&nbsp;→&nbsp; [raychantattoo.com](https://www.raychantattoo.com)
+
+Gallery and booking flow for a tattoo artist. The build downloads the artist's photos from
+a Google Sheet and resizes them into local WebP, so the live site serves its own optimised
+images instead of waiting on full resolution files from Google Drive.
+
+`React` `Vite` `Tailwind` `sharp` `Google Sheets` `Vercel`
+
+### Currently building
+
+A collectibles marketplace with a double entry ledger, live payments and a server
+authoritative economy. Private while it is in closed beta.
