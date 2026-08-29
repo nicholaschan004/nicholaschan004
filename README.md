@@ -1,21 +1,8 @@
 ## Hi, I'm Nicholas
 
-I build and ship web applications. Two of the projects below are live sites serving real
-customers; the third is a tool I built because the alternative was passing a laptop around
-a room.
+I graduated from UC Davis with a B.S. in Computer Science.
 
 ### What I've shipped
-
-**[Consensus](https://github.com/nicholaschan004/Consensus)** &nbsp;·&nbsp; anonymous live voting for group decisions
-&nbsp;→&nbsp; [consensus-vote.vercel.app](https://consensus-vote.vercel.app)
-
-A host opens a session, the room joins from their phones with a six digit code, and votes
-are tallied live without anyone being able to tell who voted what. One member one vote is
-enforced atomically in Redis rather than in application code, and the running tally is
-withheld from members until the host closes the round, because watching the count climb is
-exactly what a secret ballot prevents.
-
-`React` `TypeScript` `Vite` `Vercel Functions` `Upstash Redis`
 
 **[Tsuru Sushi](https://github.com/nicholaschan004/TsuruSushi)** &nbsp;·&nbsp; restaurant site
 &nbsp;→&nbsp; [tsurusushi.com](https://tsurusushi.com)
@@ -35,7 +22,20 @@ images instead of waiting on full resolution files from Google Drive.
 
 `React` `Vite` `Tailwind` `sharp` `Google Sheets` `Vercel`
 
+**[Consensus](https://github.com/nicholaschan004/Consensus)** &nbsp;·&nbsp; anonymous live voting for group decisions
+&nbsp;→&nbsp; [consensus-vote.vercel.app](https://consensus-vote.vercel.app)
+
+A host opens a session, the room joins from their phones with a six digit code, and votes
+are tallied live without anyone being able to tell who voted what. One member one vote is
+enforced atomically in Redis rather than in application code, and the running tally is
+withheld from members until the host closes the round, because watching the count climb is
+exactly what a secret ballot prevents.
+
+`React` `TypeScript` `Vite` `Vercel Functions` `Upstash Redis`
+
 ### Currently building
 
 A collectibles marketplace with a double entry ledger, live payments and a server
-authoritative economy. Private while it is in closed beta.
+authoritative economy &nbsp;→&nbsp; [swaggystadium.com](https://swaggystadium.com)
+
+The repository is private while the site is in closed beta.
