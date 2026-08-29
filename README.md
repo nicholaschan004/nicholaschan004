@@ -1,8 +1,14 @@
-## Hi, I'm Nicholas
+## Hi, I'm Nicholas 👋
 
 I graduated from UC Davis with a B.S. in Computer Science.
 
-### What I've shipped
+Most of what I make starts with someone I know needing something that does not exist yet,
+so the projects below are less portfolio pieces than things people actually use.
+
+When I am not building, I am playing basketball or volleyball, or in the gym somewhere in
+between.
+
+### Things I've built
 
 **[Tsuru Sushi](https://github.com/nicholaschan004/TsuruSushi)** &nbsp;·&nbsp; restaurant site
 &nbsp;→&nbsp; [tsurusushi.com](https://tsurusushi.com)
@@ -39,3 +45,5 @@ A collectibles marketplace with a double entry ledger, live payments and a serve
 authoritative economy &nbsp;→&nbsp; [swaggystadium.com](https://swaggystadium.com)
 
 The repository is private while the site is in closed beta.
+
+Thanks for stopping by. Have a look around.
