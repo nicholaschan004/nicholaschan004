@@ -40,7 +40,3 @@ exactly what a secret ballot prevents.
 
 A collectibles marketplace with a double entry ledger, live payments and a server
 authoritative economy &nbsp;→&nbsp; [swaggystadium.com](https://swaggystadium.com)
-
-The repository is private while the site is in closed beta.
-
-Thanks for stopping by. Have a look around.
