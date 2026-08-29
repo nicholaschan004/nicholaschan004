@@ -2,9 +2,6 @@
 
 I graduated from UC Davis with a B.S. in Computer Science.
 
-Most of what I make starts with someone I know needing something that does not exist yet,
-so the projects below are less portfolio pieces than things people actually use.
-
 When I am not building, I am playing basketball or volleyball, or in the gym somewhere in
 between.
 
