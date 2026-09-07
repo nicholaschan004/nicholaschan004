@@ -2,8 +2,7 @@
 
 I graduated from UC Davis with a B.S. in Computer Science.
 
-When I am not building, I am playing basketball or volleyball, or in the gym somewhere in
-between.
+When I’m not building, I’m probably shooting some hoops, behind a camera, or lifting some iron. 
 
 ### Things I've built
 
