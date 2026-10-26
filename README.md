@@ -48,7 +48,12 @@ coverage rather than guessed.
 
 `React` `TypeScript` `MediaPipe` `Cloudflare Workers` `D1` `R2`
 
+**SwaggyStadium** &nbsp;·&nbsp; collectibles marketplace
+&nbsp;→&nbsp; [swaggystadium.com](https://swaggystadium.com)
+
 A collectibles marketplace with a double entry ledger, live payments and a server
-authoritative economy &nbsp;→&nbsp; [swaggystadium.com](https://swaggystadium.com)
+authoritative economy.
+
+`Next.js` `NestJS` `TypeScript` `PostgreSQL` `Redis` `Stripe` `Clerk` `Vercel`
 
 Thanks for stopping by. Have a look around.
