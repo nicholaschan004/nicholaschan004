@@ -37,6 +37,17 @@ exactly what a secret ballot prevents.
 
 ### Currently building
 
+**VsiqueMax** &nbsp;·&nbsp; physique analysis from one photo
+&nbsp;→&nbsp; [vsiquemax.com](https://vsiquemax.com)
+
+One front photo, a height and a weight. Pose detection runs in the browser to trace the
+body outline, the widths become ratios like shoulder to waist and waist to height, and each
+metric is scored against a target from published attractiveness research, weighted by how
+strong that evidence is. Anything a photo can't actually measure is reported as missing
+coverage rather than guessed.
+
+`React` `TypeScript` `MediaPipe` `Cloudflare Workers` `D1` `R2`
+
 A collectibles marketplace with a double entry ledger, live payments and a server
 authoritative economy &nbsp;→&nbsp; [swaggystadium.com](https://swaggystadium.com)
 
