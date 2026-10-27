@@ -40,11 +40,9 @@ exactly what a secret ballot prevents.
 **VsiqueMax** &nbsp;·&nbsp; physique analysis from one photo
 &nbsp;→&nbsp; [vsiquemax.com](https://vsiquemax.com)
 
-One front photo, a height and a weight. Pose detection runs in the browser to trace the
-body outline, the widths become ratios like shoulder to waist and waist to height, and each
-metric is scored against a target from published attractiveness research, weighted by how
-strong that evidence is. Anything a photo can't actually measure is reported as missing
-coverage rather than guessed.
+Take one photo, add your height and weight, and get your physique scored on structure,
+muscularity and leanness. It shows what's holding your score back, what a year of training
+could look like, and which celebrities are built most like you.
 
 `React` `TypeScript` `MediaPipe` `Cloudflare Workers` `D1` `R2`
 
